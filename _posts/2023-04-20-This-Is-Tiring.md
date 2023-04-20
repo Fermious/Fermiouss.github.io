@@ -5,26 +5,26 @@ date: 2023-04-20
 # _This workflow is a bit tiring_
 I think I am using this the wrong way, this setup of my blog seems very inefficient. I will walk you through it:
 
-$$\texttt{I open the repository of which this blog is hosted by}$$
+$$\text{I open the repository of which this blog is hosted by}$$
 
 $$\downarrow$$
 
-$$\texttt{I open VSCode}$$
+$$\text{I open VSCode}$$
 
 $$\downarrow$$
 
-$$\texttt{I create a new file in this format: YYYY-MM-DD-Title.md}$$
+$$\text{I create a new file in this format: YYYY-MM-DD-Title.md}$$
 
 $$\downarrow$$
 
-$$\texttt{I write the post, in Markdown language}$$
+$$\text{I write the post, in Markdown language}$$
 
 $$\downarrow$$
 
-$$\texttt{I save and push the post}$$
+$$\text{I save and push the post}$$
 
 $$\downarrow$$
 
-$$\texttt{It is LIVE!}$$
+$$\text{It is LIVE!}$$
 
 $$\square$$
