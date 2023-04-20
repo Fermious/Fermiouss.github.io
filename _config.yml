@@ -142,6 +142,7 @@ defaults:
       path: "" # An empty string here means all files in the project
       type: posts
     values:
+      math: true
       layout: post
       comments: true # Enable comments in posts.
       math: true
