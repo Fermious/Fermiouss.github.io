@@ -1,6 +1,6 @@
 ---
 title: Eigen’t do it anymore
-date: 2023-04-21 0:00:00 +0003
+date: 2023-04-21 7:00:00 +0300
 ---
 # _Eigen’t do it anymore_
 

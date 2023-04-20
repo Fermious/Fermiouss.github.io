@@ -1,6 +1,6 @@
 ---
 title: The Letters & Games
-date: 2023-04-20 4:00:00 +0003
+date: 2023-04-20 4:00:00 +0300
 ---
 
 # _Shoving the letters' agenda into video games, a hot take:_
