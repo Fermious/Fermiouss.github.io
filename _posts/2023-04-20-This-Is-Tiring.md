@@ -1,6 +1,6 @@
 ---
 title: This workflow is a bit tiring
-date: 2023-04-20
+date: 2023-04-20 5:00:00 +0003
 ---
 # _This workflow is a bit tiring_
 I think I am using this the wrong way, this setup of my blog seems very inefficient. I will walk you through it:
