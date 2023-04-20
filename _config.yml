@@ -18,32 +18,32 @@ timezone: Asia/Riyadh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ibraheem's # the main title
+title: Fermious # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Fermious, duh... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Fermious is mine own singular version of fermion.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://ibralyousef.github.io/"
+url: "https://Fermious.github.io/"
 
 github:
-  username: ibralyousef # change to your github username
+  username: Fermious # change to your github username
 
-twitter:
-  username: PiPsiPhi # change to your twitter username
+# twitter:
+#   username: PiPsiPhi # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ibraheem F. Al-Yousef
-  email: ibralyousef+blog@gmail.com # change to your email address
+  name: Fermious
+  email: TheFermious+Blog@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/ibraheem-alyousef
-    - https://twitter.com/PiPsiPhi # change to your twitter homepage
-    - https://github.com/ibralyousef # change to your github homepage
+    # - https://www.linkedin.com/in/
+    # - https://twitter.com/ # change to your twitter homepage
+    # - https://github.com/ # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     
