@@ -86,7 +86,7 @@ avatar: https://pbs.twimg.com/media/FuH0oPjX0AII1Z8?format=jpg&name=large
 toc: true
 
 comments:
-  active: disqus
+  # active: disqus
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
