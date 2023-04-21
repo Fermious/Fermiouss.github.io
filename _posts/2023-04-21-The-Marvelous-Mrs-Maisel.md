@@ -1,7 +1,6 @@
 ---
 title: The Marvelous Mrs. Maisel
 date: 2023-04-21 3:00:00 +0300
-mathjax: true
 ---
 # _The Marvelous Mrs. Maisel_
 Well well well; I just started a very interesting series. _The Marvelous Mrs. Maisel_, and oh boy, does it feel good!
