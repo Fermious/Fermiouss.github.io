@@ -86,7 +86,7 @@ avatar: https://avatars.githubusercontent.com/u/131313813?v=4
 toc: true
 
 comments:
-  active: disqus
+  active:
   # The active options are as follows:
   disqus:
     shortname: fermious # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
