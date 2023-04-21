@@ -85,7 +85,7 @@ avatar: https://avatars.githubusercontent.com/u/131313813?v=4
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments: true
+comments:
   active: disqus
   # The active options are as follows:
   disqus:
@@ -144,9 +144,6 @@ defaults:
     values:
       layout: post
       comments: true
-      active: disqus
-      disqus:
-        shortname: fermious
       math: true
       mathjax: true
       toc: true # Display TOC column in posts.
