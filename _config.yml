@@ -144,8 +144,8 @@ defaults:
     values:
       layout: post
       comments: true # Enable comments in posts.
-      # math: true
-      # mathjax: true
+      math: true
+      mathjax: true
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
