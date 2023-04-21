@@ -6,11 +6,11 @@ date: 2023-04-20 11:00:00 +0300
 
 I am lost, in constant pain. This depression is degrading my mental health progressively. My mental health is deteriorating, so is my memory. 
 
-During this vacation, I remembered how loneliness can depress me. No matter how hard I try to avoid feeling lonely, I end up feeling the fuck out of it. I have one friend that I have established a meaningful connection with. However, I deteriorate drastically when I am away from him. 
+During this vacation, I remembered how loneliness can depress me. No matter how hard I try to avoid feeling lonely, I end up feeling the fuck out of it. I have very few friends that I have established a meaningful connection with. However, I deteriorate drastically when I am away from them. 
 
-This is unacceptable, an extraordinary person such as myself should never rely on extra sources for his well-being. I am trying my best to overcome this barrier: the human mortal need for human connection, and frankly it is looking impossible to overcome.
+This is unacceptable, an extraordinary person such as myself should never rely on extra sources for his well-being. I am trying my best to overcome this barrier: my human mortal need for human connection, and frankly it is looking impossible to overcome.
 
-I have tried several ways to fulfill this need. Online and in real life, none is promising. The very few ones that look promising from a distance are the ones that are very toxic, and one sided. I am very tired of this. Eigen’t do it anymore.
+I have tried several ways to fulfill this need. Online and in real life, almost none is promising, except very few people. Apart from these very few people, the very fewer ones that look promising from a distance are the ones that are very toxic, and one sided. I am very tired of this. Eigen’t do it anymore.
 
 The feeling that I am in a one sided relationships never leaves me. This haunts me and hunts me, corrupting the essence of my soul. I think I will recover if, and only if, I find a relationship where I am the one being clearly fought for. I never felt that, I always feel like I have to work hard to keep whatever good relationships I find.
 
