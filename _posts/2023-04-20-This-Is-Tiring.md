@@ -1,5 +1,5 @@
 ---
-title: This workflow is a bit tiring
+title: This Workflow is a Bit Tiring
 date: 2023-04-20 5:00:00 +0300
 ---
 # _This workflow is a bit tiring_
