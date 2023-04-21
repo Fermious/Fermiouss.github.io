@@ -29,4 +29,4 @@ $$\texttt{It is LIVE!}$$
 
 $$\square$$
 
-_P.S. I have done this $\cancel{4}\cancel{5}\cancel{6}\cancel{7}8$ times already for this post_
+_P.S. I have done this $\cancel{4}\cancel{5}\cancel{6}\cancel{7}8$ times already for this post_ 
