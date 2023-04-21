@@ -85,11 +85,11 @@ avatar: https://avatars.githubusercontent.com/u/131313813?v=4
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments: true
-  active: disqus
+comments:
+  # active: disqus
   # The active options are as follows:
   disqus:
-    shortname: fermious
+    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
@@ -143,7 +143,10 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
+      comments: true
+      active: disqus
+      disqus:
+        shortname: fermious
       math: true
       mathjax: true
       toc: true # Display TOC column in posts.
